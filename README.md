@@ -1,4 +1,4 @@
-# Unmuted
+# ![image](https://github.com/Luroi24/unmuted/assets/78554741/3919301b-a9f1-476d-ade0-d49c67c42572)
 
 Proyecto para el curso Samsung Innovation Campus 2023. 
 
